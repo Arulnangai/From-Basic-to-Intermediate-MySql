@@ -1,0 +1,11 @@
+Syntax
+inster into tablename values
+(
+parameter values by comma seperated
+)
+
+eg:
+insert into customer values
+(100,'Fang Ying','Sham','418999','sdadasfdfd',default),
+(200,'Mei Mei','Tan',default,'adssdsadsd','Thailand'),
+(300,'Albert','John',default,'dfdsfsdf',default)
