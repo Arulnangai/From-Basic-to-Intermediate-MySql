@@ -1,0 +1,5 @@
+Syntax 
+create database dbname;
+
+eg: 
+create database MySQLLearn;
