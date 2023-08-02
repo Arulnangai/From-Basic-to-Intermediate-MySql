@@ -1,0 +1,2 @@
+For single line comment use -- (double hyphen without space)
+For multiline comments use   /* type multiple line comments */ 
